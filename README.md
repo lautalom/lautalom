@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Lautaro (Lau for short), and I spend time here mostly, though not only, for college.
+My name is Lautaro (Lau for short), and I spend time here mostly, though not only, for college related work.
 
-🌱 I’m currently pursuing a CS master degree at [FaMAF](https://www.famaf.unc.edu.ar).
-💫 Achieved: bachelor in computer science and another bachelor in economics
-Sometimes I would just fork or share something completely for fun/interest/love
-Want to reach out? email me 🖥️
+- 🌱 I’m currently pursuing a CS master degree at [FaMAF](https://www.famaf.unc.edu.ar).
+- 💫 Achieved: Computer Science bachelorate. Economics bachelorate
+
+Sometimes I would just fork or share something completely for fun/interest/love.
+
+Want to reach out? Email me 🖥️
