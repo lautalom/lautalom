@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Lautaro (Lau for short), and I spend time here mostly, though not only, for college-related stuff.
+I'm Lautaro (Lau for short), and I spend time here mostly, though not only, for college-related stuff.
 
 - 🌱 I’m currently pursuing a CS master degree at [FaMAF](https://www.famaf.unc.edu.ar).
 - 💫 Achieved: Computer Science bachelorate.
