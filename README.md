@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Lautaro (Lau for short), and I spend time here mostly, though not only, for college stuff.
 
-- 🌱 I’m currently pursuing a Computer Science degree at [FaMAF](https://www.famaf.unc.edu.ar).
+- 🌱 I’m currently pursuing a Computer Science Ms degree at [FaMAF](https://www.famaf.unc.edu.ar).
 - 💫 Achieved: Computer Science bachellor.
 
 Sometimes I would just fork or share something completely for fun/interest.
