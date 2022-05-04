@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Lautaro (Lau for short), and I spend time here mostly, though not only, for college stuff.
+I spend time here mostly, though not only, for college stuff.
 
 - 🌱 I’m currently pursuing a Computer Science Ms degree at [FaMAF](https://www.famaf.unc.edu.ar).
 - 💫 Achieved: Computer Science bachellor.
