@@ -1,4 +1,4 @@
-### Hi, Friend! (yes, it's a Mr Robot reference) 👋
+### Hi, Friend 
 
 <!--
 **lautalom/lautalom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
