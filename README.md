@@ -2,7 +2,7 @@
 
 I spend time here mostly, though not only, for college.
 
-- 🌱 I’m currently pursuing a Computer Science Licentiate (~Ms) degree at [FaMAF](https://www.famaf.unc.edu.ar).
+- 🌱 I’m currently pursuing a Computer Science Licentiate degree at [FaMAF](https://www.famaf.unc.edu.ar).
 - 💫 Achieved: Computer Science bachellor.
 
 Sometimes I would just fork or share something completely for fun/interest.
