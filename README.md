@@ -1,6 +1,6 @@
 ### Hi, Friend 
 
-I spend time here mostly, though not only, for college.
+I spend time here mostly, though not only, for work.
 
 - 🌱 I’m currently pursuing a Computer Science Licentiate degree at [FaMAF](https://www.famaf.unc.edu.ar).
 - 💫 Achieved: Computer Science bachellor.
