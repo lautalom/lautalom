@@ -1,4 +1,4 @@
-### Hi, Friend 
+### Hello there!  
 
 I spend time here mostly, though not only, for work.
 
