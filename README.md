@@ -5,7 +5,7 @@ I spend time here mostly, though not only, for work.
 - 🌱 I’m currently pursuing a Computer Science Licentiate degree.
 - 💫 Achieved: Computer Science Associate.
 
-Sometimes I would just fork or share something completely for fun/interest.
+![](https://github-readme-stats.vercel.app/api?username=lautalom&show_icons=true&theme=radical)
 
 Reach out
 
