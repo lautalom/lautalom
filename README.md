@@ -1,7 +1,6 @@
 ### Hello there!  
 
-Working in companies, gitting in the hub.
-- Human AFAIK
+Lau here, working in a company, gitting in the hub.
 - Hobbies: Music, Sports, Traveling, Yoga.
 - Computer Scientist (MSc).
 
