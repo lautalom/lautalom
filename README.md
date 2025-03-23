@@ -67,27 +67,6 @@
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub Stats Section with Animations -->
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lautalom&show_icons=true&theme=tokyonight&line_height=28.5&hide_border=true&count_private=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lautalom&hide=Jupyter%20Notebook&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lautalom&theme=tokyonight&hide_border=true" alt="lautalom" />
-</p>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- Hobbies Section -->
 <h2 align="center">🎵 Hobbies & Interests</h2>
 <p align="center">
