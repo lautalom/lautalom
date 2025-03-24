@@ -4,15 +4,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lautaro-lombardi/">
-    <img src="https://img.shields.io/badge/LinkedIn-Lautaro_Lombardi-blue?logo=Linkedin&style=for-the-badge"/>
-  </a>
-  <a href="mailto:lautarolombardi19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-lautarolombardi19-red?logo=Gmail&style=for-the-badge"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lautalom.lautalom" alt="visitors"/>
 </p>
 
@@ -90,6 +81,17 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+<p align="center">
+  <a href="mailto:lautarolombardi19@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-Come%20back%20soon!-blue?style=for-the-badge" alt="Thanks for visiting! Come back soon!"/>
+</p>
+
 
 <!-- Quote -->
 <p align="center">
