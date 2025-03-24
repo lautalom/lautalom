@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello, I'm Lau</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=89AC76&center=true&vCenter=true&width=435&lines=Computer+Scientist+(MSc);Musician+Wannabe;Tenis Fan;Travel+Enthusiast;Yoga+Practitioner;Stay+Hard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=89AC76&center=true&vCenter=true&width=435&lines=Computer+Scientist+(MSc);Musician+Wannabe;Tenis+Fan;Travel+Enthusiast;Yoga+Practitioner;Stay+Hard" alt="Typing SVG" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lautalom.lautalom" alt="visitors"/>
 </p>
 
