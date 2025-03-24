@@ -10,8 +10,8 @@
 <!-- About Me Section -->
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  Computer Scientist with a Master's degree and a passion for technology, music, sports, traveling, and yoga.
-  <br>Always looking for meaningful experiences.
+  I studied a math related field to prove my 15 year old self wrong. Developed a passion for technology, music, running, and very recently, yoga.
+  <br>Trust the process.
 </p>
 
 <!-- Divider -->
