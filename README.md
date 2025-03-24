@@ -83,15 +83,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lautarolombardi19@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Gmail" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/lautaro-lombardi/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:lautarolombardi19@gmail.com" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-Come%20back%20soon!-blue?style=for-the-badge" alt="Thanks for visiting! Come back soon!"/>
-</p>
-
 
 <!-- Quote -->
 <p align="center">
