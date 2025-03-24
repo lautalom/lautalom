@@ -10,7 +10,7 @@
 <!-- About Me Section -->
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  I studied a math related field to prove my 15 year old self wrong.
+  I studied a formal science field to prove my 15 year old self wrong.
   <br>Trust the process.
 </p>
 
