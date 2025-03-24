@@ -80,12 +80,6 @@
   <a href="https://www.linkedin.com/in/lautaro-lombardi/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lautaro-lombardi/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
   <a href="mailto:lautarolombardi19@gmail.com" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
