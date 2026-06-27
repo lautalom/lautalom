@@ -1,25 +1,31 @@
 <h1 align="center">👋 Howdy, I'm Lautaro</h1>
 <p align="center">
-  <strong>Computer Scientist (MSc)</strong> · Backend & Platform Engineer
-  <br>Building distributed systems in Go, running on Kubernetes.
+  <strong>Computer Scientist (MSc)</strong> · Backend & Security Engineer
+  <br>Software Engineer III @ Proofpoint · Córdoba, Argentina
 </p>
 
 ---
 
 ## 🚀 Currently
 
-- 🔧 Building reliable backend services in **Go** and **Python**.
-- ☸️ Running workloads on **Kubernetes** and **AWS**.
-- 🎓 MSc in Computer Science — trust the process.
+- 🔐 Building threat detection microservices in **Go** & **Python** @ Proofpoint.
+- ☸️ Distributed systems on **Kubernetes** + **AWS** (ECS, SQS, Kafka, Temporal).
+- 🎤 Spoke at **Ekoparty 2022** about an open-source Ghidra extension framework.
+- 🎓 MSc Computer Science, UNC — *trust the process*.
 
 ---
 
 ## 💻 Tech Stack
 
-| | |
-|---|---|
-| **Languages** | Python · Go |
-| **Infra & Ops** | Docker · Kubernetes · AWS · Git |
+**Programming** — Python · Go · C · C++ · SQL
+
+**Infra & Ops** — Docker · Kubernetes · AWS (ECS, SQS) · Kafka · Temporal · Terraform · Linux
+
+**Observability** — Grafana · Prometheus · OpenSearch
+
+**Frameworks & Tools** — Django · Git · Ghidra
+
+**Languages** — Spanish (native) · English (advanced) · French (elementary)
 
 ---
 
