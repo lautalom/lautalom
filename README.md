@@ -11,7 +11,7 @@ Senior Software Engineer based in Córdoba, Argentina. I build backend services 
 
 ## Background
 
-I currently work at [Frávega Tech](https://www.fravega.com/). Previously, I worked on threat detection services at [Proofpoint](https://www.proofpoint.com/), full-stack applications at Splight, and reverse-engineering tooling at Eclypsium.
+I currently work at [Frávega Tech](https://github.com/fvg-tech). Previously, I worked on threat detection services at [Proofpoint](https://www.proofpoint.com/), full-stack applications at Splight, and reverse-engineering tooling at Eclypsium.
 
 My path into software started with a degree in Economics before I studied Computer Science. That combination shaped how I approach engineering: understand the problem carefully, think in systems, and build practical solutions.
 
