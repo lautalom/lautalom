@@ -1,49 +1,38 @@
-<h1 align="center">👋 Howdy, I'm Lautaro</h1>
-<p align="center">
-  <strong>Computer Scientist (MSc)</strong> · Backend & Security Engineer
-  <br>Software Engineer III @ Proofpoint · Córdoba, Argentina
-</p>
+# Lautaro Lombardi
 
----
+Senior Software Engineer based in Córdoba, Argentina. I build backend services and developer tooling for infrastructure-heavy systems, with a focus on making complex integrations reliable and straightforward to use.
 
-## 🚀 Currently
+## What I work on
 
-- 🔐 Building threat detection microservices in **Go** & **Python** @ Proofpoint.
-- ☸️ Distributed systems on **Kubernetes** + **AWS** (ECS, SQS, Kafka, Temporal).
-- 🎤 Spoke at **Ekoparty 2022** about an open-source Ghidra extension framework.
-- 🎓 MSc Computer Science, UNC — *trust the process*.
+- Designing services that provide safe, consistent access to queues, databases, and logging infrastructure
+- Building reusable client libraries and abstractions that reduce application-level boilerplate
+- Developing scalable backend systems for threat detection and analysis
+- Improving reliability, observability, and developer experience across distributed systems
 
----
+## Background
 
-## 💻 Tech Stack
+I currently work at [Frávega Tech](https://www.fravega.com/). Previously, I worked on threat detection services at [Proofpoint](https://www.proofpoint.com/), full-stack applications at Splight, and reverse-engineering tooling at Eclypsium.
 
-**Programming** — Python · Go · C · C++ · SQL
+My path into software started with a degree in Economics before I studied Computer Science. That combination shaped how I approach engineering: understand the problem carefully, think in systems, and build practical solutions.
 
-**Infra & Ops** — Docker · Kubernetes · AWS (ECS, SQS) · Kafka · Temporal · Terraform · Linux
+I hold an MSc in Computer Science from the Universidad Nacional de Córdoba, where I also spent time teaching algorithms, networks, and operating systems.
 
-**Observability** — Grafana · Prometheus · OpenSearch
+In 2022, I spoke at Ekoparty about an open-source framework for extending Ghidra with FLOSS reverse-engineering plugins.
 
-**Frameworks & Tools** — Django · Git · Ghidra
+## Tools I use
 
-**Languages** — Spanish (native) · English (advanced) · French (elementary)
+**Languages:** Go, Python, C, C++, SQL
 
----
+**Infrastructure:** Docker, Kubernetes, AWS, Kafka, Temporal, Terraform, Linux
 
-## 🔥 Featured Projects
+**Observability:** Datadog, Grafana, Prometheus, OpenSearch
 
-<a href="https://github.com/lautalom?tab=repositories">
-  <img src="https://img.shields.io/badge/View%20All%20Repositories-2962FF?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
-</a>
+**Other:** Django, Git, Ghidra
 
----
+## Outside work
 
-## 🎯 Beyond Code
+Music, tennis, travel, and yoga.
 
-Music · Tennis · Travel · Yoga · **Stay Hard**
+## Connect
 
----
-
-## 📫 Connect
-
-<a href="https://www.linkedin.com/in/lautaro-lombardi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:lautarolombardi19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+[LinkedIn](https://www.linkedin.com/in/lautaro-lombardi/) · [Email](mailto:lautarolombardi19@gmail.com) · [Repositories](https://github.com/lautalom?tab=repositories)
