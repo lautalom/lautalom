@@ -17,7 +17,7 @@ My path into software started with a degree in Economics before I studied Comput
 
 I hold an MSc in Computer Science from the Universidad Nacional de Córdoba, where I also spent time teaching algorithms, networks, and operating systems.
 
-In 2022, I spoke at Ekoparty about an open-source framework for extending Ghidra with FLOSS reverse-engineering plugins.
+In 2022, I spoke at Ekoparty about [GhidraBridge](https://github.com/lautalom/GhidraBridge), an open-source framework for extending Ghidra with FLOSS reverse-engineering plugins.
 
 ## Tools I use
 
